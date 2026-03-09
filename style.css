@@ -153,15 +153,6 @@ th {
     padding: 5px;
     margin-bottom: 10px;
 }
-
-
-.inverted {
-    transform: scaleX(-1);
-    text-align: center;
-    margin-top: 20px;
-}
-
-
 .profile-layout {
     display: flex;
     gap: 0px;
@@ -171,6 +162,13 @@ th {
     flex: 1;
     text-wrap-style: auto;
 } 
+.inverted {
+    transform: scaleX(-1);
+    text-align: center;
+    margin-top: 20px;
+}
+
+
 .right-side {
     flex: 1;
     padding: auto;
@@ -191,6 +189,7 @@ th {
     margin-left: 20px;
     text-align: left;
 }
+
 
 
 
