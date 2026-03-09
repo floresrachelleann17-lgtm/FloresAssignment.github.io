@@ -160,9 +160,10 @@ th {
     margin-top: 20px;
 }
 .inverted {
-    transform: scaleY(-1);
+    transform: invert;
     text-align: center;
     margin-top: 20px;
+    
 }
 .left-side{
     flex: 1;
@@ -188,5 +189,6 @@ th {
     margin-left: 20px;
     text-align: left;
 }
+
 
 
