@@ -163,17 +163,6 @@ th {
     text-wrap-style: auto;
 } 
 
-.inverted{
-    margin-left: 20px;
-    margin-top: 20px;
-}
-
-.inverted span{
-    display: inline-block;
-    transform: scaleX(-1);
-}
-
-
 .right-side {
     flex: 1;
     padding: auto;
@@ -194,6 +183,7 @@ th {
     margin-left: 20px;
     text-align: left;
 }
+
 
 
 
