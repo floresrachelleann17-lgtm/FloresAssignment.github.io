@@ -159,6 +159,11 @@ th {
     gap: 0px;
     margin-top: 20px;
 }
+.inverted {
+    transform: scaleY(-1);
+    text-align: center;
+    margin-top: 20px;
+}
 .left-side{
     flex: 1;
     text-wrap-style: auto;
@@ -183,4 +188,5 @@ th {
     margin-left: 20px;
     text-align: left;
 }
+
 
