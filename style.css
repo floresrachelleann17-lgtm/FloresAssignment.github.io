@@ -159,6 +159,7 @@ th {
     transform: scaleX(-1);
     text-align: center;
     margin-top: 20px;
+    margin: 0;
 }
 
 
@@ -191,6 +192,7 @@ th {
     margin-left: 20px;
     text-align: left;
 }
+
 
 
 
