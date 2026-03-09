@@ -160,7 +160,7 @@ th {
     margin-top: 20px;
 }
 .inverted {
-    transform: scaleX;
+    transform: scaleX(-1);
     text-align: center;
     margin-top: 20px;
     
@@ -189,6 +189,7 @@ th {
     margin-left: 20px;
     text-align: left;
 }
+
 
 
 
